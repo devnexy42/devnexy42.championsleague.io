@@ -1,0 +1,66 @@
+
+
+body{
+    /* background-color: hsla(320, 100%, 26%, 1); */
+    background-image: url(./images/championsleage.jpg);
+}
+
+header{
+    margin-top: 150px;
+}
+
+header h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 65px;
+}
+
+table{
+    margin: 0 auto;
+    text-align: center;
+    border: solid 5px black;
+}
+
+table td{
+    text-align: center;
+    padding: 30px;
+    font-size: 25px;
+    font-weight: bold;
+    border: solid 2px black;
+    font-weight: bold;
+}
+
+table th{
+    padding: 50px 100px;
+    font-size: 30px;
+    border: solid 2px black;
+}
+
+.first_match{
+    background: rgb(30% 20% 50%);
+    
+}
+
+.second_match{
+    background: rgb(255 122 127 / 80%);
+}
+
+.third_match{
+    background: rgb(255 122 127 / 40%);
+}
+
+.fourth_match{
+    background: rgb(31 120 50);
+}
+
+.fifth_match{
+background: hsla(146, 100%, 60%, 1);
+}
+
+.first_heading{
+    background: hsla(231, 100%, 69%, 1);
+}
+
+.footer{
+    background: hsla(315, 100%, 54%, 1);
+}
